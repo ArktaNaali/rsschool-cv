@@ -1,4 +1,5 @@
 # Antonina
 
 ## Contacts
-### My phone number
+My phone number
+My e-mail
